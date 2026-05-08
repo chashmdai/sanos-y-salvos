@@ -1,0 +1,10 @@
+Repositorio principal (monorepo):
+https://github.com/chashmdai/sanos-y-salvos
+
+Ramas:
+- develop        → rama principal de integración
+- feature/auth-service     → desarrollo Auth Service (Puerto 8081)
+- feature/bff-gateway      → desarrollo API Gateway (Puerto 8080)
+- feature/match-service    → desarrollo Match Service (Puerto 8084)
+- feature/frontend-beta    → desarrollo Frontend React (Puerto 5173)
+- feature/match-tests      → pruebas unitarias Match Service
